@@ -1,2 +1,2 @@
 ### TEST
-credentail 적용중
+credentials 적용중
